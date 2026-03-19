@@ -33,3 +33,10 @@ Now call `add 123 456` from chat in claude desktop
 // resources (or direct resources, as the docs refer to them as) are not dynamic. You can't pass any parameters into it.
 // It's just a static method that gets called and gives back what it gives back. If we were doing a weather resource, you'd have to hardcode in where-ever you were providing weather for.
 // There is such a thing as "resource templates" where you can provide parameters to the resource
+
+// `Review code for best practices and potential issues` and attach file
+
+// sampling: it's when your MCP server can give the LLM a prompt directly. An example would be if you had an MCP server that helped with refactoring and the MCP server could hand the LLM a
+// piece of code with a prompt on how to refactor it and it would get an answer that way
+
+// Elicitation: your MCP server can ask follow up questions.

@@ -68,7 +68,7 @@ server.registerTool(
                     temperature: {
                         current: current.variables(0).value(),
                         feelsLike: current.variables(2).value(),
-                        unit: "fahrenheit",
+                        unit: "celsius",
                     },
                     humidity: {
                         value: current.variables(1).value(),
