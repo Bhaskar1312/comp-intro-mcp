@@ -28,3 +28,8 @@ Now call `add 123 456` from chat in claude desktop
 
 // https://github.com/public-apis/public-apis
 
+// Tools are meant to be given to an LLM and then the LLM can decide to use the tools or not.
+// Now resources meant for the user to provide to the LLM
+// resources (or direct resources, as the docs refer to them as) are not dynamic. You can't pass any parameters into it.
+// It's just a static method that gets called and gives back what it gives back. If we were doing a weather resource, you'd have to hardcode in where-ever you were providing weather for.
+// There is such a thing as "resource templates" where you can provide parameters to the resource
