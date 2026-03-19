@@ -24,3 +24,7 @@ restart claude desktop each time after changing config
 Now call `add 123 456` from chat in claude desktop
 `get_weather 17.4401° N, 78.3489° E` 
 `get_weather Tanuku`
+`Do I need a Jacket in Pune`
+
+// https://github.com/public-apis/public-apis
+
