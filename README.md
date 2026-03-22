@@ -40,3 +40,12 @@ Now call `add 123 456` from chat in claude desktop
 // piece of code with a prompt on how to refactor it and it would get an answer that way
 
 // Elicitation: your MCP server can ask follow up questions.
+
+
+
+https://brightdata.com/blog/ai/sse-vs-streamable-http
+https://linear.app/docs/mcp
+https://orm.drizzle.team/docs/overview
+https://modelcontextprotocol.io/specification/2025-11-25/basic/transports#streamable-http
+https://modelcontextprotocol.io/clients
+https://github.com/punkpeye/awesome-mcp-servers
